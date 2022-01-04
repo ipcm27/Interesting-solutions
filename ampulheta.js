@@ -48,4 +48,4 @@ function fazerAmpulheta(tamanho) {
   imprimirTrianguloInverso(tamanho);
 }
 
-fazerAmpulheta(100);
+fazerAmpulheta(21);
