@@ -1,0 +1,6 @@
+{
+  "type": "module",
+  "dependencies": {
+    "superagent": "^7.1.3"
+  }
+}
